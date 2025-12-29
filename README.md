@@ -1,43 +1,33 @@
 <div align="left">
 
-<!-- <p align="center">
-  <img src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1766986487~exp=1766990087~hmac=c3c4b2b93ed0f636b23feae79e630989c44d193ba3b54c51c78fd355874cd28f" width="100%" />
-</p> -->
-
-#  Hi there, I'm Ankit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40">
-
-<div style="text-align: left;">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=00F2FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=7000FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert">
-      <img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=00F2FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert" alt="Typing SVG">
-  </picture>
-</div>
-
-<br>
-
-A **_Performance-Focused DevOps Engineer_** with over **2 years of experience** currently optimizing enterprise-scale cloud infrastructure at **Bazaarvoice**. I specialize in building "immune" systems—architectures that are self-healing, highly available, and fully automated.
+<table border="0" width="100%">
+  <tr>
+    <td width="75%" align="left" valign="top">
+      <h1>Hi there, I'm Ankit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"></h1>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=00F2FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=7000FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert">
+        <img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=00F2FF&size=24&weight=700&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;IaC+Expert" alt="Typing SVG">
+      </picture>
+      <br><br>
+      A <b>Performance-Focused DevOps Engineer</b> with over <b>2 years of experience</b> currently optimizing enterprise-scale cloud infrastructure at <b>Bazaarvoice</b>. I specialize in building "immune" systems—architectures that are self-healing, highly available, and fully automated.
+    </td>
+    <td width="25%" align="center" valign="center">
+      <img src="assets/avatar.gif" alt="Ankit's Avatar">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚡ Core Competencies
-
-<table border="0">
-  <tr>
-    <td width="60%" align="left" valign="top">
-      <ul>
-        <li><b>Cloud Architecture:</b> Design and deployment of scalable, resilient environments on <b>AWS</b>.</li>
-        <li><b>Infrastructure as Code:</b> Mastering <b>Terraform</b> and <b>CloudFormation</b> for zero-touch provisioning.</li>
-        <li><b>CI/CD Orchestration:</b> Building robust pipelines in <b>Jenkins</b> and <b>GitHub Actions</b>.</li>
-        <li><b>System Reliability:</b> Ensuring High Availability (HA) across distributed <b>Linux</b> environments.</li>
-        <li><b>Automated Governance:</b> Scripting with <b>Python/Bash</b> to eliminate manual toil.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://img.freepik.com/premium-vector/back-view-young-man-workplace_88272-392.jpg" width="100%" style="max-width:300px; border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<ul>
+  <li><b>Cloud Architecture:</b> Design and deployment of scalable, resilient environments on <b>AWS</b>.</li>
+  <li><b>Infrastructure as Code:</b> Mastering <b>Terraform</b> and <b>CloudFormation</b>.</li>
+  <li><b>CI/CD Orchestration:</b> Building robust pipelines in <b>Jenkins</b> and <b>GitHub Actions</b>.</li>
+  <li><b>System Reliability:</b> Ensuring High Availability (HA) across <b>Linux</b> environments.</li>
+  <li><b>Automated Governance:</b> Scripting with <b>Python/Bash</b> to eliminate manual toil.</li>
+</ul>
 
 ---
 
