@@ -1,8 +1,8 @@
 <div align="left">
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1766986487~exp=1766990087~hmac=c3c4b2b93ed0f636b23feae79e630989c44d193ba3b54c51c78fd355874cd28f" width="100%" />
-</p>
+</p> -->
 
 #  Hi there, I'm Ankit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40">
 
@@ -54,7 +54,7 @@ A **_Performance-Focused DevOps Engineer_** with over **2 years of experience** 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28"> Connect with me
+### <img src="https://lottie.host/embed/d9ad7a80-1e59-4566-a91c-63b5ee1d3b6b/1H215oc2Wa.lottie" width="28"> Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/ankit-kumar-tiwari-134153230" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
