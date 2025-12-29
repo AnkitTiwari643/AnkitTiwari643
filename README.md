@@ -45,7 +45,7 @@
 </p>
 
 <p>
-  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Building%20Construction.png?raw=true" width="28"> Infrastructure as Code:</h3>
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Building%20Construction.png?raw=true" width="28"> Infrastructure as Code</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -59,7 +59,7 @@
 </p>
 
 <p>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"> CI/CD:</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"> CI/CD</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -73,7 +73,7 @@
 </p>
 
 <p>
-  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Passenger%20Ship.png?raw=true" width="28"> Containers & Kubernetes:</h3>
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Passenger%20Ship.png?raw=true" width="28"> Containers & Kubernetes</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -90,7 +90,7 @@
 </p>
 
 <p>
-  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png?raw=true" width="28"> Monitoring & Logging:</h3>
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png?raw=true" width="28"> Monitoring & Logging</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -107,7 +107,7 @@
 </p>
 
 <p>
-  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" width="28"> Languages:</h3>
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" width="28"> Languages</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -124,7 +124,7 @@
 </p>
 
 <p>
-  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="28"> Operating Systems:</h3>
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="28"> Operating Systems</h3>
   <table>
   <tr>
     <td align="center" width="110">
