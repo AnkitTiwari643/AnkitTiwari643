@@ -34,7 +34,7 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> Tech Ecosystem
 
 <p>
-  <h3><i>☁️ Cloud Providers:</i></h3>
+  <h3>☁️ Cloud Providers:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -45,7 +45,7 @@
 </p>
 
 <p>
-  <h3><i>🏗️ Infrastructure as Code:</i></h3>
+  <h3>🏗️ Infrastructure as Code:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -59,7 +59,7 @@
 </p>
 
 <p>
-  <h3><i>🚀 CI/CD:</i></h3>
+  <h3>🚀 CI/CD:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -73,7 +73,7 @@
 </p>
 
 <p>
-  <h3><i>📦 Containers & Kubernetes:</i></h3>
+  <h3>📦 Containers & Kubernetes:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -90,7 +90,7 @@
 </p>
 
 <p>
-  <h3><i>📉 Monitoring & Logging:</i></h3>
+  <h3>📉 Monitoring & Logging:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -107,7 +107,7 @@
 </p>
 
 <p>
-  <h3><i>💻 Languages:</i></h3>
+  <h3>💻 Languages:</h3>
   <table>
   <tr>
     <td align="center" width="110">
@@ -124,7 +124,7 @@
 </p>
 
 <p>
-  <h3><i>🐧 Operating Systems:</i></h3>
+  <h3>🐧 Operating Systems:</h3>
   <table>
   <tr>
     <td align="center" width="110">
