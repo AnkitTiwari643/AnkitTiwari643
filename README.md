@@ -13,7 +13,7 @@
       A <b>Performance-Focused DevOps Engineer</b> with over <b>2 years of experience</b> currently optimizing enterprise-scale cloud infrastructure at <b>Bazaarvoice</b>. I specialize in building architectures that are self-healing, highly available, and fully automated.
     </td>
     <td width="25%" align="center" valign="center">
-      <img src="assets/avatar.gif" alt="AI Core" width="100%">
+      <img src="assets/wave.gif" alt="AI Core" width="100%">
     </td>
   </tr>
 </table>
